@@ -1,5 +1,6 @@
 import java.util.Scanner;
 
+
 public class JAVA_3 {
     static Scanner input = new Scanner(System.in);
 
