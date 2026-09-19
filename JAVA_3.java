@@ -1,5 +1,3 @@
-package ITC.exercise4;
-
 import java.util.Scanner;
 
 public class JAVA_3 {
