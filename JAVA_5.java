@@ -1,4 +1,3 @@
-package ITC.exercise4;
 
 class Math{
     static int add( int a, int b){
