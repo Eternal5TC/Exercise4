@@ -1,5 +1,3 @@
-package ITC.exercise4;
-
 class Category {
 
     private int id;
