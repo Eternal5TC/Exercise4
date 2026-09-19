@@ -1,4 +1,3 @@
-package ITC.exercise4;
 
 class Math2{
     static int factorial(int n) {
