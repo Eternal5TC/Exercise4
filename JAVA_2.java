@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class JAVA_2 {
     // Sum
     static int sum(int[] numbers) {
