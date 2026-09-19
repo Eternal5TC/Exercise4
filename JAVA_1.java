@@ -1,6 +1,7 @@
 import java.util.Scanner;
 import java.lang.Math;
 
+
 class Quadratic {
     double a, b, c;
 
